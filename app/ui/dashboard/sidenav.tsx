@@ -24,6 +24,6 @@ export default function SideNav() {
           </button>
         </form>
       </div>
-    </div>
+    </div >
   );
 }
